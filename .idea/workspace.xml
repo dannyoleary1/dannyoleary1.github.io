@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb394252-aa04-46c0-b626-de00ad8ad5df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="79" />
-          <entry key="html" value="7009" />
+          <entry key="html" value="7111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="79" />
-          <entry key="HTML" value="7009" />
+          <entry key="HTML" value="7111" />
         </counts>
       </usages-collector>
     </session>
@@ -72,8 +72,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="344" column="47" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+            <state relative-caret-position="484">
+              <caret line="103" column="157" selection-start-line="103" selection-start-column="57" selection-end-line="103" selection-end-column="157" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,6 +157,11 @@
             <path>
               <item name="dannyoleary1.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dannyoleary1.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dannyoleary1.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dannyoleary1.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -196,17 +204,18 @@
       <option name="presentableId" value="Default" />
       <updated>1560599153298</updated>
       <workItem from="1560599154440" duration="1126000" />
-      <workItem from="1560681650325" duration="12528000" />
+      <workItem from="1560681650325" duration="13314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13654000" />
+    <option name="totallyTimeSpent" value="14440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16883117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16883117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,7 +228,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4995005" visible="true" weight="0.32930514" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4995005" visible="true" weight="0.32930514" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004995" side_tool="true" weight="0.32930514" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -266,8 +275,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="344" column="47" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+        <state relative-caret-position="484">
+          <caret line="103" column="157" selection-start-line="103" selection-start-column="57" selection-end-line="103" selection-end-column="157" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
