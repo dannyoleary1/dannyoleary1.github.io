@@ -117,3 +117,9 @@ a {
 .fa-xs {
   font-size: 32px;
 }
+
+.font-list {
+  content: "\f00c"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+}
